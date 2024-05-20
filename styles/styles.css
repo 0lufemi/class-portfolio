@@ -165,3 +165,8 @@ nav a,
     text-align: center;
     text-wrap: balance;
 }
+
+/* Section Two */
+#link-two {
+    background: #e5e7eb;
+}
