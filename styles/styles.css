@@ -169,4 +169,23 @@ nav a,
 /* Section Two */
 #link-two {
     background: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 128px 256px 64px;
+    /* text-align: center; */
+}
+
+#link-two h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+    text-wrap: pretty;
+    margin-bottom: 8px;
+}
+
+#link-two p {
+    align-self: flex-end;
+    font-weight: bold;
 }
