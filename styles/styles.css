@@ -225,4 +225,9 @@ nav a,
 }
 
 /* Section Four */
-
+footer {
+    background: #1f2937;
+    padding: 32px 128px;
+    text-align: center;
+    color: white;
+}
